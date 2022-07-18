@@ -4,3 +4,8 @@ Solamente deberemos añadir esta función a nuestro archivo de configuracion de 
 los archivos de configuracion de las vpn .ovpn que nos descarguemos de las plataformas.
 Una vez hecho esto, nos podremos conectar directamente escribiendo el la terminal el nombre de la funcion seguido del nombre le la plataforma
 que estemos utilizando.
+
+vpnlab htb:
+https://github.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
+
+vpnlab thm:
