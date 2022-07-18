@@ -1,0 +1,16 @@
+function vpnlab(){
+if [[ -z $1 ]]; then
+echo "Especifica plataforma HackTheBox o TryHackMe"
+echo "( 'vpnlab htb' o 'vpnlab thm')"
+else
+if [[ "$1" == "htb" ]]; then
+echo "Abriendo conexión VPN con HackTheBox..."
+sudo openvpn /[Añadir aquí ruta del archivo de configuración .ovpn de hackthebox]
+elif [[ "$1" == "thm" ]]; then
+echo "Abriendo conexión VPN con TryHackMe..."
+sudo openvpn /[ Añadir aquí ruta del archivo de configuración .ovpn de tryhackme]
+else
+echo "Plataforma no reconocida."
+fi
+fi
+}
