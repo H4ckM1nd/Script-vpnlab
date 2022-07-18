@@ -6,9 +6,9 @@ Una vez hecho esto, nos podremos conectar directamente escribiendo el la termina
 que estemos utilizando.
 
 vpnlab htb:
-![Ejemplo_htb](https://githubraw.com/H4ckM1nd/H4ckM1nd.github.io/master/Capturas/vpnlab%20htb.png)
+![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png)
 
-![NMAP_SCAN](https://githubraw.com/H4ckM1nd/H4ckM1nd.github.io/master/Capturas/ARCHETYPE/archetype_nmap%20scan1.png)
+https://raw.githubusercontent.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
 
-https://github.com/H4ckM1nd/h4ckm1nd.github.io/blob/master/Capturas/ARCHETYPE/archetype%20ls%20directory%201.png
 vpnlab thm:
+https://github.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
