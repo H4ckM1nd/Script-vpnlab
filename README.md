@@ -7,6 +7,6 @@ que estemos utilizando.
 
 vpnlab htb:
 ![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png)
-![NMAP_SCAN](https://githubraw.com/H4ckM1nd/H4ckM1nd.github.io/master/Capturas/ARCHETYPE/archetype_nmap%20scan1.png)
+
 
 vpnlab thm:
