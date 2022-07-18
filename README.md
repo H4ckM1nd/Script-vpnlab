@@ -5,8 +5,9 @@ los archivos de configuracion de las vpn .ovpn que nos descarguemos de las plata
 Una vez hecho esto, nos podremos conectar directamente escribiendo el la terminal el nombre de la funcion seguido del nombre le la plataforma
 que estemos utilizando.
 
-vpnlab htb:
-![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/main/Capturas/vpnlab%20htb.png)
+Ejemplo vpnlab htb:
+![Ejemplo_htb](https://githubraw.com/H4ckM1nd/H4ckM1nd.github.io/master/Capturas/vpnlab%20htb.png)
 
-vpnlab thm:
-![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/main/Capturas/vpnlab%20thm.png)
+Ejemplo vpnlab thm:
+![Ejemplo_thm]https://github.com/H4ckM1nd/h4ckm1nd.github.io/blob/master/Capturas/ARCHETYPE/archetype%20ls%20directory%201.png
+
