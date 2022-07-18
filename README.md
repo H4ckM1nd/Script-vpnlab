@@ -8,5 +8,5 @@ que estemos utilizando.
 vpnlab htb:
 ![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/main/Capturas/vpnlab%20htb.png)
 
-
 vpnlab thm:
+![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/main/Capturas/vpnlab%20thm.png)
