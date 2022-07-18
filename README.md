@@ -6,6 +6,6 @@ Una vez hecho esto, nos podremos conectar directamente escribiendo el la termina
 que estemos utilizando.
 
 vpnlab htb:
-https://github.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
+[Ejemplo htb]https://github.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
 
 vpnlab thm:
