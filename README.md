@@ -6,9 +6,7 @@ Una vez hecho esto, nos podremos conectar directamente escribiendo el la termina
 que estemos utilizando.
 
 vpnlab htb:
-![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png)
+![Ejemplo_htb](https://githubraw.com/H4ckM1nd/Script-vpnlab/main/Capturas/vpnlab%20htb.png)
 
-![ejemplo htb](https://raw.githubusercontent.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png)
 
 vpnlab thm:
-https://github.com/H4ckM1nd/Script-vpnlab/blob/main/Capturas/vpnlab%20htb.png
