@@ -1,16 +1,33 @@
-function vpnlab(){
-if [[ -z $1 ]]; then
-echo "Especifica plataforma HackTheBox o TryHackMe"
-echo "( 'vpnlab htb' o 'vpnlab thm')"
-else
-if [[ "$1" == "htb" ]]; then
-echo "Abriendo conexión VPN con HackTheBox..."
-sudo openvpn /[Añadir aquí ruta del archivo de configuración .ovpn de hackthebox]
-elif [[ "$1" == "thm" ]]; then
-echo "Abriendo conexión VPN con TryHackMe..."
-sudo openvpn /[ Añadir aquí ruta del archivo de configuración .ovpn de tryhackme]
-else
-echo "Plataforma no reconocida."
-fi
-fi
+#!/usr/bin/env bash
+
+# Define the vpnlab function
+vpnlab() {
+    # If the first argument is empty,
+    if [[ -z $1 ]]; then
+        # print a message and exit the function
+        echo "Please specify the platform (htb or thm)."
+        return
+    fi
+
+    # Check the value of the first argument
+    case $1 in
+        # If the value is "htb",
+        "htb")
+            # print a message and run the openvpn command with the HackTheBox configuration file
+            echo "Opening VPN connection with HackTheBox..."
+            sudo openvpn /[Add hackthebox .ovpn configuration file path here].
+            ;;
+        # If the value is "thm",
+        "thm")
+            # print a message and run the openvpn command with the TryHackMe configuration file
+            echo "Opening VPN connection with TryHackMe..."
+            sudo openvpn /[ Add path to tryhackme's .ovpn configuration file here].
+            ;;
+        # If the value is anything else,
+        *)
+            # print an error message and exit the function
+            echo "Platform not recognized."
+            return
+            ;;
+    esac
 }
